@@ -5,6 +5,9 @@ MATLAB and Simulink model of the Unmanned Aircraft System (UAS)
 | 1 | MATLAB | Missile_EoM.m | Function for the missile ordinary differential equations |
 | 2 | MATLAB | Assignment3_work.m | The main script file to execute Missile_EoM.m |
 
+![image](https://github.com/komxun/UAS-Modeling-and-Simulation/assets/133139057/7c0ebbfb-7638-4fcd-a63d-b58b25db1927)
+
+
 # Introduction
 A schematic diagram of the UAV system is illustrated in Fig.1. Overall, the main 6-degree of freedom equations of motions 
 require inputs from the total forces and moments models which depend on the environment model. At the end of each time-step, 
